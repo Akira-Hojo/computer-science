@@ -112,14 +112,14 @@ just remember that you can't purchase success!
 
 ---
 
-## Prerequisites
+## Prerequisites ( COMPELTE )
 
 - [Core CS](#core-cs) assumes the student has already taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites), including algebra, geometry, and pre-calculus.
 - [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS
 and is knowledgeable enough now to decide which electives to take.
 - Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
 
-## Intro CS
+## Intro CS ( COMPLETE )
 
 ### Introduction to Programming
 
@@ -147,7 +147,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
 
-## Core CS
+## Core CS ( IN PROGRESS ) 
 
 All coursework under Core CS is **required**, unless otherwise indicated.
 
